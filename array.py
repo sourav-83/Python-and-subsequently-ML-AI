@@ -1,4 +1,4 @@
-marks = []
+marks = [100, 80, 75]
 
 
 mark = int(input())
@@ -13,4 +13,4 @@ mark = int(input())
 
 marks.append(mark)
 
-print(marks)
+print(marks[0])
