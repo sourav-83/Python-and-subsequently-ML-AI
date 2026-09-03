@@ -10,5 +10,5 @@ def grade_print(marks):
 
     return
 
-number = int(input())
+number = int(input()) 
 grade_print(number)
