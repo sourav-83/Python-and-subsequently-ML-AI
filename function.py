@@ -12,3 +12,4 @@ def grade_print(marks):
 
 number = int(input()) 
 grade_print(number)
+
